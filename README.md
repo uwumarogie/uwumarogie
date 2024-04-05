@@ -20,7 +20,8 @@
 ## 🧑🏻‍💻 About Me
 
 
-I'm a Full Stack Developer who specializes in building scalable and flexible web applications.
+I'm a Computer Science Student at the Technical Unviversity of Munich and a Full Stack Developer with a track record in building scalable and flexible web applications.
+I don't just want to write code, I want to write efficient software that tackles real world problems. 
 
 <br />
 
@@ -32,7 +33,8 @@ I'm a Full Stack Developer who specializes in building scalable and flexible web
 	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 	<img src="https://img.shields.io/badge/Tailwind CSS-E34F26?style=for-the-badge&logo=Tailwind CSS&logoColor=#06B6D4"/>
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=#1572B6"/>
-	<img src="https://img.shields.io/badge/NEXT JS-007FFF?style=for-the-badge&logo=next.js&logoColor=#000000"/>
+	<img src="https://img.shields.io/badge/Next Js-007FFF?style=for-the-badge&logo=next.js&logoColor=#000000"/>
+		<img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor="white"/>
 </p>
 
 <h4>🗃 Backend</h3>
@@ -42,6 +44,10 @@ I'm a Full Stack Developer who specializes in building scalable and flexible web
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ocaml-EC6813?style=for-the-badge&logo=Ocaml&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=Drizzle&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white"/>
+
+
 
 </p>
 
@@ -52,8 +58,8 @@ I'm a Full Stack Developer who specializes in building scalable and flexible web
 
 <h4>🖥 Work Setup</h3>
 <p>
-	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 	<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+ 	<img src="https://img.shields.io/badge/WebStorm-316192?style=for-the-badge&logo=webstorm&logoColor=white"/>
 </p>
 <br />
 
