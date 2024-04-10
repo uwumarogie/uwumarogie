@@ -42,7 +42,6 @@ I don't just want to write code, I want to write efficient software that tackles
 	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ocaml-EC6813?style=for-the-badge&logo=Ocaml&logoColor=white"/>
 
 
@@ -52,15 +51,15 @@ I don't just want to write code, I want to write efficient software that tackles
 <h4>🗄 Databases</h3>
 <p>
 	<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-	
-    <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=Drizzle&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ocaml-EC6813?style=for-the-badge&logo=Ocaml&logoColor=white"/>
 </p>
 
 <h4>🖥 Work Setup</h3>
 <p>
 	<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
  	<img src="https://img.shields.io/badge/WebStorm-316192?style=for-the-badge&logo=webstorm&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 <br />
 
