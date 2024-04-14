@@ -48,7 +48,6 @@ I don't just want to write code, I want to write efficient software that tackles
 <h4>🗄 Databases</h3>
 <p>
 	<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 <h4>🖥 Work Setup</h3>
