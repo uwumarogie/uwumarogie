@@ -67,3 +67,6 @@ I don't just want to write code, I want to write efficient software that tackles
 	<img src="https://github-readme-stats.vercel.app/api?username=uwumarogie&theme=react" height="192px" style="margin-right: 20px"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwumarogie&layout=compact&theme=react" height="192px">
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=uwumarogie&icon=5&color=8)](https://visitcount.itsvg.in)
+
