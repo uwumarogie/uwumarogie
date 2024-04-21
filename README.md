@@ -37,7 +37,7 @@ I don't just want to write code, I want to write efficient software that tackles
 		<img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor="white"/>
 </p>
 
-<h4>🗃 Backend</h3>
+<h4>🗃 Backend / DevOps</h3>
 <p>
 	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
