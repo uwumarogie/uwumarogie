@@ -61,6 +61,6 @@ I don't just want to write code, I want to write efficient software that tackles
 ## 📊 GitHub Stats
 
 <p>
-	![Phillips's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwumarogie)
+	<img https://github-readme-stats.vercel.app/api?username=uwumarogie) />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwumarogie&layout=compact&theme=react" height="192px">
 </p>
