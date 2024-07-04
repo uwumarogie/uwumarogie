@@ -42,7 +42,6 @@ I don't just want to write code, I want to write efficient software that tackles
 <p>
 	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-	<img src="https://img.shields.io/badge/Javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white"/>
  		<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
