@@ -21,8 +21,7 @@
 ## 🧑🏻‍💻 About Me
 
 
-I'm a Computer Science Student at the Technical Unviversity of Munich and a Full Stack Developer with a track record in building scalable and flexible web applications.
-I don't just want to write code, I want to write efficient software that tackles real world problems. 
+I'm a Computer Science Student at the Technical Unviversity of Munich. 
 
 <br />
 
