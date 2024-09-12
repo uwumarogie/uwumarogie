@@ -17,12 +17,6 @@
 </p>
 <br />
 
-
-## 🧑🏻‍💻 About Me
-
-
-I'm a Computer Science Student at the Technical Unviversity of Munich. 
-
 <br />
 
 ## 🛠️ My favorite Tools
