@@ -1,1 +1,1 @@
-I solve problem through code.
+I solve problems with code.
