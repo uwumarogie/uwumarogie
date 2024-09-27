@@ -1,1 +1,1 @@
-Currently working on a background checker tool for students 🤓
+Currently working on a shared streaming platform for friends 😊
